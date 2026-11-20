@@ -4,9 +4,9 @@ import 'dart:math';
 
 
 List <ResultWid> resultList = [
-ResultWid(category:'Underweight	',letter:'ughhh eat something , fucking sandwitch'),
-ResultWid(category:'Normal',letter:'you doing fine keep it up'),
-ResultWid(category:'Overweight',letter:'really ??? what you gonna next , me?'),
+ResultWid(category:'Underweight	',letter:'You are underweight. Consider a balanced, nutrient-rich diet.'),
+ResultWid(category:'Normal',letter:'You have a healthy weight. Keep it up!'),
+ResultWid(category:'Overweight',letter:'You are overweight. Regular exercise can help.'),
 
 ];
 
